@@ -35,6 +35,7 @@ Visualize the decision tree to understand the model's decision-making process.
 Optimize the decision tree by adjusting hyperparameters like maximum depth, minimum samples per leaf, and others to prevent overfitting and improve generalization.
 5. Prediction
 Use the trained model to predict whether a passenger survived based on their demographic and behavioral data.
+
 Expected Outcome
 
 By the end of this project, the decision tree classifier will be able to predict whether a passenger survived the Titanic disaster with reasonable accuracy based on their demographic and behavioral characteristics.
